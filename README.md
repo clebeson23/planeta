@@ -1,6 +1,6 @@
-# Applicativo Planetas
+# App Planeta
 
-Novo Projeto realizado para a materia de desenvolvimento de aplicativos moveis.
+Projeto desenvolvido para a materia de desenvolvimento web
 
 ## Getting Started
 
