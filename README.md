@@ -1,6 +1,6 @@
 # App Planeta
 
-Projeto desenvolvido para a materia de desenvolvimento web
+Projeto desenvolvido para a materia de desenvolvimento de app
 
 ## Telas do App
 ### 2. Requisitos de Interface (UI)
